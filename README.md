@@ -1,16 +1,5 @@
-# bottom_navigation_baar
+ bottom_navigation_baar
 
-A new Flutter project.
+The Bottom Navigation bar is most popular navigation bar in recent years. Because, navigating different pages is very easy. In this tutorial you will learn how to implement bottom navigation bar in flutter.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+In flutter, we can easily implement the bottom navigation bar by using the default bottomnavigationbar property. In scaffold widget has property called BottomNavigationBar, that allows to create bottom navigation in easy way.
